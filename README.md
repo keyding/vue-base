@@ -1,26 +1,20 @@
 # vue-base
 
-## Project setup
+> vue 基础项目，关于vue开发的相关技巧
+
+- [快速原型开发](./src/single-components/README.md)
+
+### 安装
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 开发
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### 构建
 ```
 yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
 ```
